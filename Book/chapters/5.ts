@@ -33,7 +33,7 @@ export const chapter5:Chapter = {
     {
       id: 2,
       question: "What must you reckon with?",
-      img: "/17-30/17-30_02.png",
+      img: "/question-images/17-30/17-30_02.png",
       answers: [
         {
           text: "Pedestrians could step onto the roadway in front of you",
@@ -56,7 +56,7 @@ export const chapter5:Chapter = {
     {
       id: 3,
       question: "What must you be prepared for?",
-      img: "/17-30/17-30_01.png",
+      img: "/question-images/17-30/17-30_01.png",
       answers: [
         {
           text: "Pedestrians often change the side of the road",
@@ -133,7 +133,7 @@ export const chapter5:Chapter = {
     {
       id: 6,
       question: "What must you reckon with?",
-      img: "/17-30/17-30_03.png",
+      img: "/question-images/17-30/17-30_03.png",
       answers: [
         {
           text: "Pedestrians and particularly children may suddenly step onto the roadway between the parked vehicles",
@@ -183,7 +183,7 @@ export const chapter5:Chapter = {
     {
       id: 8,
       question: "Why should you drive with particular care here?",
-      img: "/17-30/17-30_04.png?",
+      img: "/question-images/17-30/17-30_04.png?",
       answers: [
         {
           text: "The road ahead is obscured from view",
@@ -211,7 +211,7 @@ export const chapter5:Chapter = {
       id: 9,
       question:
         "Why is it necessary to maintain a particularly great safe distance from vehicles in front?",
-      img: "/17-30/17-30_05.png?",
+      img: "/question-images/17-30/17-30_05.png?",
       answers: [
         {
           text: "Because otherwise wheel-spray impairs visibility",
@@ -239,7 +239,7 @@ export const chapter5:Chapter = {
       id: 10,
       question:
         "Why does driving on this stretch of road require greater alertness on the part of the motorist?",
-      img: "/17-30/17-30_06.png",
+      img: "/question-images/17-30/17-30_06.png",
       answers: [
         {
           text: "The road surface is uneven and road grip varies",
@@ -266,7 +266,7 @@ export const chapter5:Chapter = {
     {
       id: 11,
       question: "What adversely affects road safety in this situation?",
-      img: "/17-30/17-30_07.png",
+      img: "/question-images/17-30/17-30_07.png",
       answers: [
         {
           text: "Water thrown up by vehicles in front",
@@ -335,7 +335,7 @@ export const chapter5:Chapter = {
     {
       id: 14,
       question: "Why must you drive with particular caution here?",
-      img: "/17-30/17-30_08.png",
+      img: "/question-images/17-30/17-30_08.png",
       answers: [
         {
           text: "Because the roadway is slippery",
@@ -415,7 +415,7 @@ export const chapter5:Chapter = {
     {
       id: 17,
       question: "What dangers could arise if you want to turn right here?",
-      img: "/17-30/17-30_09.png",
+      img: "/question-images/17-30/17-30_09.png",
       answers: [
         {
           text: "You might not be able to stop in time if a pedestrian crosses the side street",
@@ -442,7 +442,7 @@ export const chapter5:Chapter = {
     {
       id: 18,
       question: "Why can driving along this unevenly lit street be dangerous?",
-      img: "/17-30/17-30_10.png",
+      img: "/question-images/17-30/17-30_10.png",
       answers: [
         {
           text: "Pedestrians crossing the street in a dark area can easily be overlooked",
@@ -469,7 +469,7 @@ export const chapter5:Chapter = {
     {
       id: 19,
       question: "What must you reckon with here?",
-      img: "/17-30/17-30_11.png",
+      img: "/question-images/17-30/17-30_11.png",
       answers: [
         {
           text: "Others can not see your vehicle in good time",
@@ -496,7 +496,7 @@ export const chapter5:Chapter = {
     {
       id: 20,
       question: "Which dangers can arise in this residential area?",
-      img: "/17-30/17-30_12.png",
+      img: "/question-images/17-30/17-30_12.png",
       answers: [
         {
           text: "Vehicles drive too fast",
@@ -549,7 +549,7 @@ export const chapter5:Chapter = {
     {
       id: 22,
       question: "What must you reckon with?",
-      img: "/17-30/17-30_13.png",
+      img: "/question-images/17-30/17-30_13.png",
       answers: [
         {
           text: "A vehicle moving slowly in your direction behind the bend",
@@ -624,7 +624,7 @@ export const chapter5:Chapter = {
     {
       id: 25,
       question: "What must you be prepared for?",
-      img: "/17-30/17-30_14.png",
+      img: "/question-images/17-30/17-30_14.png",
       answers: [
         {
           text: "The appearance of a vehicle from the left",
@@ -647,7 +647,7 @@ export const chapter5:Chapter = {
     {
       id: 26,
       question: "What must you reckon with over the brow of this hill?",
-      img: "/17-30/17-30_15.png",
+      img: "/question-images/17-30/17-30_15.png",
       answers: [
         {
           text: "A vehicle may have broken down there",
@@ -674,7 +674,7 @@ export const chapter5:Chapter = {
     {
       id: 27,
       question: "Why must you be particularly careful here?",
-      img: "/17-30/17-30_16.png",
+      img: "/question-images/17-30/17-30_16.png",
       answers: [
         {
           text: "Because there is an increased danger of skidding when braking",
@@ -697,7 +697,7 @@ export const chapter5:Chapter = {
     {
       id: 28,
       question: "What must you reckon with?",
-      img: "/17-30/17-30_17.png",
+      img: "/question-images/17-30/17-30_17.png",
       answers: [
         {
           text: "With a dangerous right bend",
@@ -720,7 +720,7 @@ export const chapter5:Chapter = {
     {
       id: 29,
       question: "What must you be prepared for in this situation?",
-      img: "/17-30/17-30_18.png",
+      img: "/question-images/17-30/17-30_18.png",
       answers: [
         {
           text: "An uneven and dirty roadway",
@@ -743,7 +743,7 @@ export const chapter5:Chapter = {
     {
       id: 30,
       question: "What must you reckon with in this situation?",
-      img: "/17-30/17-30_19.png",
+      img: "/question-images/17-30/17-30_19.png",
       answers: [
         {
           text: "Vehicles may suddenly brake",
@@ -961,7 +961,7 @@ export const chapter5:Chapter = {
     {
       id: 39,
       question: "What must you reckon with here?",
-      img: "/17-30/17-30_20.png",
+      img: "/question-images/17-30/17-30_20.png",
       answers: [
         {
           text: "Your vehicle could be blown to the right by the strong side wind",
@@ -1034,7 +1034,7 @@ export const chapter5:Chapter = {
       id: 42,
       question:
         "A strong side wind is blowing from the left. When are you particularly exposed to danger when overtaking?",
-      img: "/17-30/17-30_21.png",
+      img: "/question-images/17-30/17-30_21.png",
       answers: [
         {
           text: "When you enter the slipstream of the truck",
@@ -1132,7 +1132,7 @@ export const chapter5:Chapter = {
     {
       id: 46,
       question: "What adversely affects road safety here?",
-      img: "/17-30/17-30_22.png",
+      img: "/question-images/17-30/17-30_22.png",
       answers: [
         {
           text: "Poor visibility",
@@ -1269,7 +1269,7 @@ export const chapter5:Chapter = {
     {
       id: 52,
       question: "What must driver of the white car reckon with?",
-      img: "/17-30/17-30_24.png",
+      img: "/question-images/17-30/17-30_24.png",
       answers: [
         {
           text: "Oncoming traffic may cut the corner",
@@ -1364,7 +1364,7 @@ export const chapter5:Chapter = {
     {
       id: 56,
       question: "What must you do?",
-      img: "/17-30/17-30_23.png",
+      img: "/question-images/17-30/17-30_23.png",
       answers: [
         {
           text: "Drive slowly because children might run out from between the parked vehicles at any time",

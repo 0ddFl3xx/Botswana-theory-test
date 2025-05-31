@@ -141,7 +141,7 @@ export const chapter10: Chapter = {
     {
       id: 7,
       question: "What must you do in this situation when you are dazzled?",
-      img: "/107-113/107-113_01.png",
+      img: "/question-images/107-113/107-113_01.png",
       answers: [
         {
           text: "Look to the left-hand edge of the roadway",
@@ -904,7 +904,7 @@ export const chapter10: Chapter = {
     {
       id: 42,
       question: "A traffic jam is building up here. What must you do?",
-      img: "/107-113/107-113_02.png",
+      img: "/question-images/107-113/107-113_02.png",
       answers: [
         {
           text: "If possible, switch on hazard warning lights to warn vehicles following behind",
@@ -950,7 +950,7 @@ export const chapter10: Chapter = {
       id: 44,
       question:
         "What must you do when a traffic jam has formed on this road outside built-up areas?",
-      img: "/107-113/107-113_03.png",
+      img: "/question-images/107-113/107-113_03.png",
       answers: [
         {
           text: "Move over to the right-hand side of your lane and leave a channel in the middle",

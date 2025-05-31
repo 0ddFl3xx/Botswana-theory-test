@@ -90,7 +90,7 @@ export const chapter7: Chapter = {
     {
       id: 5,
       question: "What must you reckon with?",
-      img: "/75-83/75-83_01.png",
+      img: "/question-images/75-83/75-83_01.png",
       answers: [
         {
           text: "The boy could set off at any moment",
@@ -113,7 +113,7 @@ export const chapter7: Chapter = {
     {
       id: 6,
       question: "What must you do?",
-      img: "/75-83/75-83_02.png",
+      img: "/question-images/75-83/75-83_02.png",
       answers: [
         {
           text: "You must keep a close eye on the children and proceed cautiously",
@@ -132,7 +132,7 @@ export const chapter7: Chapter = {
     {
       id: 7,
       question: "What must you be prepared for?",
-      img: "/75-83/75-83_03.png",
+      img: "/question-images/75-83/75-83_03.png",
       answers: [
         {
           text: "The boy ahead of you could turn right to follow the other child",
@@ -155,7 +155,7 @@ export const chapter7: Chapter = {
     {
       id: 8,
       question: "What must you be prepared for?",
-      img: "/75-83/75-83_04.png",
+      img: "/question-images/75-83/75-83_04.png",
       answers: [
         {
           text: "One of the children could turn back to collect the ball",
@@ -178,7 +178,7 @@ export const chapter7: Chapter = {
     {
       id: 9,
       question: "What must you do?",
-      img: "/75-83/75-83_06.png",
+      img: "/question-images/75-83/75-83_06.png",
       answers: [
         {
           text: "Brake heavily immediately and remain ready to brake",
@@ -197,7 +197,7 @@ export const chapter7: Chapter = {
     {
       id: 10,
       question: "What do you have to do?",
-      img: "/75-83/75-83_05.png",
+      img: "/question-images/75-83/75-83_05.png",
       answers: [
         {
           text: "Reduce speed, remain ready to brake and drive cautiously past",
@@ -216,7 +216,7 @@ export const chapter7: Chapter = {
     {
       id: 11,
       question: "What do you have to do?",
-      img: "/75-83/75-83_07.png",
+      img: "/question-images/75-83/75-83_07.png",
       answers: [
         {
           text: "Brake immediately and remain ready to brake",
@@ -235,7 +235,7 @@ export const chapter7: Chapter = {
     {
       id: 12,
       question: "What do you have to do?",
-      img: "/75-83/75-83_09.png",
+      img: "/question-images/75-83/75-83_09.png",
       answers: [
         {
           text: "Brake and, if necessary, stop",
@@ -300,7 +300,7 @@ export const chapter7: Chapter = {
     {
       id: 15,
       question: "What must you reckon with?",
-      img: "/75-83/75-83_08.png",
+      img: "/question-images/75-83/75-83_08.png",
       answers: [
         {
           text: "People crossing the street in front of the bus",
@@ -324,7 +324,7 @@ export const chapter7: Chapter = {
       id: 16,
       question:
         "The bus has come to a halt at the stop. Under which conditions are you allowed to pass at walking speed?",
-      img: "/75-83/75-83_10.png",
+      img: "/question-images/75-83/75-83_10.png",
       answers: [
         {
           text: "If danger for passengers boarding and alighting is excluded",
@@ -397,7 +397,7 @@ export const chapter7: Chapter = {
     {
       id: 19,
       question: "Which statements are correct? (Brake lights on)",
-      img: "/75-83/75-83_10.png",
+      img: "/question-images/75-83/75-83_10.png",
       answers: [
         {
           text: "You may pass on the right-hand side at walking speed provided that passengers are not endangered and you are sure no-one is endangered",
@@ -417,7 +417,7 @@ export const chapter7: Chapter = {
       id: 20,
       question:
         "Which vehicles may pass here at walking speed only, provided that passengers are not endangered in any way?",
-      img: "/75-83/75-83_08.png",
+      img: "/question-images/75-83/75-83_08.png",
       answers: [
         {
           text: "All vehicles traveling in the same direction",
@@ -440,7 +440,7 @@ export const chapter7: Chapter = {
     {
       id: 21,
       question: "What must you heed in this situation?",
-      img: "/75-83/75-83_11.png",
+      img: "/question-images/75-83/75-83_11.png",
       answers: [
         {
           text: "You may pass the stationary bus at walking speed provided you are sure that passengers are not endangered",
@@ -486,7 +486,7 @@ export const chapter7: Chapter = {
     {
       id: 23,
       question: "You want to turn left. What must you be prepared for?",
-      img: "/75-83/75-83_13.png",
+      img: "/question-images/75-83/75-83_13.png",
       answers: [
         {
           text: "The truck will stop",
@@ -513,7 +513,7 @@ export const chapter7: Chapter = {
     {
       id: 24,
       question: "What must you remember at these bus stops?",
-      img: "/75-83/75-83_14.png",
+      img: "/question-images/75-83/75-83_14.png",
       answers: [
         {
           text: "Pedestrians sometimes step off the roadway without paying attention",
@@ -536,7 +536,7 @@ export const chapter7: Chapter = {
     {
       id: 25,
       question: "What must you do?",
-      img: "/75-83/75-83_12.png",
+      img: "/question-images/75-83/75-83_12.png",
       answers: [
         {
           text: "Brake and, if possible, pass slowly on the left",
@@ -582,7 +582,7 @@ export const chapter7: Chapter = {
     {
       id: 27,
       question: "What must you heed in this situation?",
-      img: "/75-83/75-83_15.png",
+      img: "/question-images/75-83/75-83_15.png",
       answers: [
         {
           text: "You may pass at walking speed only",
@@ -605,7 +605,7 @@ export const chapter7: Chapter = {
     {
       id: 28,
       question: "Which statements are correct in this situation?",
-      img: "/75-83/75-83_16.png",
+      img: "/question-images/75-83/75-83_16.png",
       answers: [
         {
           text: "Cars coming from the opposite direction may pass the bus provided that they do so with care",
@@ -629,7 +629,7 @@ export const chapter7: Chapter = {
       id: 29,
       question:
         "Which statements are correct in this situation? (Hazard warning lights on)",
-      img: "/75-83/75-83_18.png",
+      img: "/question-images/75-83/75-83_18.png",
       answers: [
         {
           text: "The bus may be passed in either lane but no faster than at walking speed",
@@ -675,7 +675,7 @@ export const chapter7: Chapter = {
     {
       id: 31,
       question: "What must you be prepared for in this situation?",
-      img: "/75-83/75-83_17.png",
+      img: "/question-images/75-83/75-83_17.png",
       answers: [
         {
           text: "The sudden appearance of oncoming traffic",
@@ -702,7 +702,7 @@ export const chapter7: Chapter = {
     {
       id: 32,
       question: "When can a cyclist represent a danger for you?",
-      img: "/75-83/75-83_19.png",
+      img: "/question-images/75-83/75-83_19.png",
       answers: [
         {
           text: "When the cyclist switches to the roadway without paying attention to the traffic",
@@ -744,7 +744,7 @@ export const chapter7: Chapter = {
     {
       id: 34,
       question: "What must you reckon with?",
-      img: "/75-83/75-83_20.png",
+      img: "/question-images/75-83/75-83_20.png",
       answers: [
         {
           text: "The moped rider could pull out to the right to overtake the cyclist",
@@ -771,7 +771,7 @@ export const chapter7: Chapter = {
     {
       id: 35,
       question: "What must you be prepared for in this situation?",
-      img: "/75-83/75-83_21.png",
+      img: "/question-images/75-83/75-83_21.png",
       answers: [
         {
           text: "That the braking distance will be longer",
@@ -1000,7 +1000,7 @@ export const chapter7: Chapter = {
     {
       id: 45,
       question: "What must you do?",
-      img: "/75-83/75-83_22.png",
+      img: "/question-images/75-83/75-83_22.png",
       answers: [
         {
           text: "Brake early in order to show the pedestrians that they may pass",
@@ -1019,7 +1019,7 @@ export const chapter7: Chapter = {
     {
       id: 46,
       question: "What must you do here?",
-      img: "/75-83/75-83_23.png",
+      img: "/question-images/75-83/75-83_23.png",
       answers: [
         {
           text: "Stop to allow the pedestrians to cross the roadway",
@@ -1128,7 +1128,7 @@ export const chapter7: Chapter = {
     {
       id: 51,
       question: "What do you do in this situation?",
-      img: "/75-83/75-83_24.png",
+      img: "/question-images/75-83/75-83_24.png",
       answers: [
         {
           text: "I let the pedestrian cross the roadway",

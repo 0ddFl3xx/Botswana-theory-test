@@ -8,7 +8,7 @@ export const chapter13: Chapter = {
       id: 1,
       question:
         "Why might a driver fail to notice the 'Give Way' sign at the next crossroads?",
-      img: "/31-46/31-46_01.png",
+      img: "/question-images/31-46/31-46_01.png",
       answers: [
         {
           text: "The continuous row of lights could mislead the driver into thinking he has priority at the crossroads",
@@ -50,7 +50,7 @@ export const chapter13: Chapter = {
     {
       id: 3,
       question: "What must you reckon with?",
-      img: "/31-46/31-46_02.png",
+      img: "/question-images/31-46/31-46_02.png",
       answers: [
         {
           text: "With a small vehicle driving in front of the Bakki",
@@ -69,7 +69,7 @@ export const chapter13: Chapter = {
     {
       id: 4,
       question: "Where must you wait?",
-      img: "/31-46/31-46_03.png",
+      img: "/question-images/31-46/31-46_03.png",
       answers: [
         {
           text: "At the stop line",
@@ -148,7 +148,7 @@ export const chapter13: Chapter = {
     {
       id: 8,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_05.png",
+      img: "/question-images/31-46/31-46_05.png",
       answers: [
         {
           text: "I may continue",
@@ -167,7 +167,7 @@ export const chapter13: Chapter = {
     {
       id: 9,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_04.png",
+      img: "/question-images/31-46/31-46_04.png",
       answers: [
         {
           text: "I must allow the cyclist to pass",
@@ -190,7 +190,7 @@ export const chapter13: Chapter = {
     {
       id: 10,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_06.png",
+      img: "/question-images/31-46/31-46_06.png",
       answers: [
         {
           text: "The red and yellow car proceed first",
@@ -209,7 +209,7 @@ export const chapter13: Chapter = {
     {
       id: 11,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_07.png",
+      img: "/question-images/31-46/31-46_07.png",
       answers: [
         {
           text: "I allow the red car to proceed",
@@ -232,7 +232,7 @@ export const chapter13: Chapter = {
     {
       id: 12,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_08.png",
+      img: "/question-images/31-46/31-46_08.png",
       answers: [
         {
           text: "The cyclist must wait",
@@ -255,7 +255,7 @@ export const chapter13: Chapter = {
     {
       id: 13,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_09.png",
+      img: "/question-images/31-46/31-46_09.png",
       answers: [
         {
           text: "I allow the truck to proceed",
@@ -278,7 +278,7 @@ export const chapter13: Chapter = {
     {
       id: 14,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_10.png",
+      img: "/question-images/31-46/31-46_10.png",
       answers: [
         {
           text: "I must allow the cyclist to turn",
@@ -301,7 +301,7 @@ export const chapter13: Chapter = {
     {
       id: 15,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_11.png",
+      img: "/question-images/31-46/31-46_11.png",
       answers: [
         {
           text: "The blue car on the left must wait",
@@ -324,7 +324,7 @@ export const chapter13: Chapter = {
     {
       id: 16,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_12.png",
+      img: "/question-images/31-46/31-46_12.png",
       answers: [
         {
           text: "I must wait",
@@ -343,7 +343,7 @@ export const chapter13: Chapter = {
     {
       id: 17,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_13.png",
+      img: "/question-images/31-46/31-46_13.png",
       answers: [
         {
           text: "I am not allowed to cross the crossroads first",
@@ -366,7 +366,7 @@ export const chapter13: Chapter = {
     {
       id: 18,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_14.png",
+      img: "/question-images/31-46/31-46_14.png",
       answers: [
         {
           text: "I am allowed to turn in front of the two other cars",
@@ -385,7 +385,7 @@ export const chapter13: Chapter = {
     {
       id: 19,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_15.png",
+      img: "/question-images/31-46/31-46_15.png",
       answers: [
         {
           text: "I must allow the blue truck to proceed",
@@ -404,7 +404,7 @@ export const chapter13: Chapter = {
     {
       id: 20,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_16.png",
+      img: "/question-images/31-46/31-46_16.png",
       answers: [
         {
           text: "I must allow the motorcycle to pass",
@@ -427,7 +427,7 @@ export const chapter13: Chapter = {
     {
       id: 21,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_17.png",
+      img: "/question-images/31-46/31-46_17.png",
       answers: [
         {
           text: "I must allow the motorcycle to proceed",
@@ -450,7 +450,7 @@ export const chapter13: Chapter = {
     {
       id: 22,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_18.png",
+      img: "/question-images/31-46/31-46_18.png",
       answers: [
         {
           text: "I must allow the tram to proceed",
@@ -473,7 +473,7 @@ export const chapter13: Chapter = {
     {
       id: 23,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_19.png",
+      img: "/question-images/31-46/31-46_19.png",
       answers: [
         {
           text: "I must allow the motorcycle to turn in front of me",
@@ -492,7 +492,7 @@ export const chapter13: Chapter = {
     {
       id: 24,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_20.png",
+      img: "/question-images/31-46/31-46_20.png",
       answers: [
         {
           text: "I may only turn after the motorcycle",
@@ -515,7 +515,7 @@ export const chapter13: Chapter = {
     {
       id: 25,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_21.png",
+      img: "/question-images/31-46/31-46_21.png",
       answers: [
         {
           text: "I may proceed first",
@@ -534,7 +534,7 @@ export const chapter13: Chapter = {
     {
       id: 26,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_22.png",
+      img: "/question-images/31-46/31-46_22.png",
       answers: [
         {
           text: "I must allow the tram to pass",
@@ -553,7 +553,7 @@ export const chapter13: Chapter = {
     {
       id: 27,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_23.png",
+      img: "/question-images/31-46/31-46_23.png",
       answers: [
         {
           text: "I must allow the cyclist to proceed",
@@ -580,7 +580,7 @@ export const chapter13: Chapter = {
     {
       id: 28,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_24.png",
+      img: "/question-images/31-46/31-46_24.png",
       answers: [
         {
           text: "I must wait",
@@ -599,7 +599,7 @@ export const chapter13: Chapter = {
     {
       id: 29,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_25.png",
+      img: "/question-images/31-46/31-46_25.png",
       answers: [
         {
           text: "I must wait",
@@ -618,7 +618,7 @@ export const chapter13: Chapter = {
     {
       id: 30,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_26.png",
+      img: "/question-images/31-46/31-46_26.png",
       answers: [
         {
           text: "I must wait",
@@ -637,7 +637,7 @@ export const chapter13: Chapter = {
     {
       id: 31,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_27.png",
+      img: "/question-images/31-46/31-46_27.png",
       answers: [
         {
           text: "I may proceed",
@@ -656,7 +656,7 @@ export const chapter13: Chapter = {
     {
       id: 32,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_28.png",
+      img: "/question-images/31-46/31-46_28.png",
       answers: [
         {
           text: "I may proceed first",
@@ -675,7 +675,7 @@ export const chapter13: Chapter = {
     {
       id: 33,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_29.png",
+      img: "/question-images/31-46/31-46_29.png",
       answers: [
         {
           text: "I must allow the motorcycle to pass",
@@ -694,7 +694,7 @@ export const chapter13: Chapter = {
     {
       id: 34,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_30.png",
+      img: "/question-images/31-46/31-46_30.png",
       answers: [
         {
           text: "I must allow the motorcycle to proceed",
@@ -717,7 +717,7 @@ export const chapter13: Chapter = {
     {
       id: 35,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_31.png",
+      img: "/question-images/31-46/31-46_31.png",
       answers: [
         {
           text: "I must allow the red car to pass",
@@ -740,7 +740,7 @@ export const chapter13: Chapter = {
     {
       id: 36,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_32.png",
+      img: "/question-images/31-46/31-46_32.png",
       answers: [
         {
           text: "I may proceed",
@@ -759,7 +759,7 @@ export const chapter13: Chapter = {
     {
       id: 37,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_33.png",
+      img: "/question-images/31-46/31-46_33.png",
       answers: [
         {
           text: "I must allow the yellow truck to pass",
@@ -782,7 +782,7 @@ export const chapter13: Chapter = {
     {
       id: 38,
       question: "Who must wait?",
-      img: "/31-46/31-46_34.png",
+      img: "/question-images/31-46/31-46_34.png",
       answers: [
         {
           text: "The car coming from the farm track",
@@ -801,7 +801,7 @@ export const chapter13: Chapter = {
     {
       id: 39,
       question: "You want to turn left from this farm track. Who must wait?",
-      img: "/31-46/31-46_36.png",
+      img: "/question-images/31-46/31-46_36.png",
       answers: [
         {
           text: "I must wait",
@@ -820,7 +820,7 @@ export const chapter13: Chapter = {
     {
       id: 40,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_35.png",
+      img: "/question-images/31-46/31-46_35.png",
       answers: [
         {
           text: "I must allow the yellow car to pass",
@@ -839,7 +839,7 @@ export const chapter13: Chapter = {
     {
       id: 41,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_38.png",
+      img: "/question-images/31-46/31-46_38.png",
       answers: [
         {
           text: "I may proceed",
@@ -858,7 +858,7 @@ export const chapter13: Chapter = {
     {
       id: 42,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_37.png",
+      img: "/question-images/31-46/31-46_37.png",
       answers: [
         {
           text: "I must allow the blue car to pass",
@@ -881,7 +881,7 @@ export const chapter13: Chapter = {
     {
       id: 43,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_39.png",
+      img: "/question-images/31-46/31-46_39.png",
       answers: [
         {
           text: "I must give way to the blue car coming from the right",
@@ -904,7 +904,7 @@ export const chapter13: Chapter = {
     {
       id: 44,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_40.png",
+      img: "/question-images/31-46/31-46_40.png",
       answers: [
         {
           text: "I must allow the cyclist to proceed",
@@ -927,7 +927,7 @@ export const chapter13: Chapter = {
     {
       id: 45,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_41.png",
+      img: "/question-images/31-46/31-46_41.png",
       answers: [
         {
           text: "I must allow the cyclist to pass",
@@ -950,7 +950,7 @@ export const chapter13: Chapter = {
     {
       id: 46,
       question: "Which conduct is correct?",
-      img: "/31-46/31-46_42.png",
+      img: "/question-images/31-46/31-46_42.png",
       answers: [
         {
           text: "I proceed first",
@@ -1019,7 +1019,7 @@ export const chapter13: Chapter = {
     {
       id: 49,
       question: "What applies here?",
-      img: "/31-46/31-46_44.png",
+      img: "/question-images/31-46/31-46_44.png",
       answers: [
         {
           text: "Vehicles turning left may turn off",
@@ -1042,7 +1042,7 @@ export const chapter13: Chapter = {
     {
       id: 50,
       question: "What do you do in this situation?",
-      img: "/31-46/31-46_43.png",
+      img: "/question-images/31-46/31-46_43.png",
       answers: [
         {
           text: "Cross the crossroads without stopping",
@@ -1065,7 +1065,7 @@ export const chapter13: Chapter = {
     {
       id: 51,
       question: "What is the correct procedure?",
-      img: "/31-46/31-46_46.png",
+      img: "/question-images/31-46/31-46_46.png",
       answers: [
         {
           text: "The green car must wait",
@@ -1089,7 +1089,7 @@ export const chapter13: Chapter = {
       id: 52,
       question:
         "The traffic lights are on flashing amber. What is the correct procedure?",
-      img: "/31-46/31-46_45.png",
+      img: "/question-images/31-46/31-46_45.png",
       answers: [
         {
           text: "Approach with greater caution, giving way if necessary",
@@ -1112,7 +1112,7 @@ export const chapter13: Chapter = {
     {
       id: 53,
       question: "What must you do here?",
-      img: "/31-46/31-46_48.png",
+      img: "/question-images/31-46/31-46_48.png",
       answers: [
         {
           text: "Turn right at a brisk pace",
@@ -1136,7 +1136,7 @@ export const chapter13: Chapter = {
       id: 54,
       question:
         "When is it permitted to turn right at these traffic lights with green arrow sign?",
-      img: "/31-46/31-46_49.png",
+      img: "/question-images/31-46/31-46_49.png",
       answers: [
         {
           text: "When there is no danger to other road users, particularly pedestrians and cross traffic",
@@ -1160,7 +1160,7 @@ export const chapter13: Chapter = {
       id: 55,
       question:
         "What is permitted at these traffic lights with green arrow sign?",
-      img: "/31-46/31-46_49.png",
+      img: "/question-images/31-46/31-46_49.png",
       answers: [
         {
           text: "Turn right from the right lane when there is no obstruction or danger to others",
@@ -1184,7 +1184,7 @@ export const chapter13: Chapter = {
       id: 56,
       question:
         "Where should a vehicle stop at these traffic lights with green arrow sign intending to drive straight?",
-      img: "/31-46/31-46_49.png",
+      img: "/question-images/31-46/31-46_49.png",
       answers: [
         {
           text: "At the stop line",
@@ -1207,7 +1207,7 @@ export const chapter13: Chapter = {
     {
       id: 57,
       question: "What do these permanent control signs mean?",
-      img: "/31-46/31-46_51.png",
+      img: "/question-images/31-46/31-46_51.png",
       answers: [
         {
           text: "I must switch from lane 2 to lane 1",
@@ -1279,7 +1279,7 @@ export const chapter13: Chapter = {
       id: 60,
       question:
         "The traffic light has just changed to 'red'. You intend to turn right. What do you do?",
-      img: "/31-46/31-46_52.png",
+      img: "/question-images/31-46/31-46_52.png",
       answers: [
         {
           text: "Stop",
@@ -1302,7 +1302,7 @@ export const chapter13: Chapter = {
     {
       id: 61,
       question: "What do these signals indicate?",
-      img: "/31-46/31-46_53.png",
+      img: "/question-images/31-46/31-46_53.png",
       answers: [
         {
           text: "The two lanes on the left are open to traffic",
@@ -1373,7 +1373,7 @@ export const chapter13: Chapter = {
     {
       id: 64,
       question: "What is correct?",
-      img: "/31-46/31-46_54.png",
+      img: "/question-images/31-46/31-46_54.png",
       answers: [
         {
           text: "Wait at the crossroads",
@@ -1420,7 +1420,7 @@ export const chapter13: Chapter = {
     {
       id: 66,
       question: "What is correct?",
-      img: "/31-46/31-46_55.png",
+      img: "/question-images/31-46/31-46_55.png",
       answers: [
         {
           text: "Cross the crossroads at a brisk pace",
@@ -1466,7 +1466,7 @@ export const chapter13: Chapter = {
     {
       id: 68,
       question: "What is correct?",
-      img: "/31-46/31-46_56.png",
+      img: "/question-images/31-46/31-46_56.png",
       answers: [
         {
           text: "The yellow car must leave the crossroads",
@@ -1489,7 +1489,7 @@ export const chapter13: Chapter = {
     {
       id: 69,
       question: "What applies here?",
-      img: "/31-46/31-46_57.png",
+      img: "/question-images/31-46/31-46_57.png",
       answers: [
         {
           text: "The crossroads may be crossed",
@@ -1560,7 +1560,7 @@ export const chapter13: Chapter = {
     {
       id: 72,
       question: "What do you do if the white car does not stop?",
-      img: "/31-46/31-46_58.png",
+      img: "/question-images/31-46/31-46_58.png",
       answers: [
         {
           text: "Reduce speed, waive your priority",

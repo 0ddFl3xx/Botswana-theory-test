@@ -21,7 +21,7 @@ export const chapter4: Chapter = {
     {
       id: 2,
       question: "What are you allowed to use the left-hand hard shoulder for?",
-      img: "/13-16/13-16_01.png",
+      img: "/question-images/13-16/13-16_01.png",
       answers: [
         { text: "Stopping and parking", isCorrect: true },
         { text: "Driving with slow vehicles", isCorrect: true },
@@ -97,7 +97,7 @@ export const chapter4: Chapter = {
       id: 8,
       question:
         "Are you allowed to overtake the black car on this Highways on the left?",
-      img: "/13-16/13-16_02.png",
+      img: "/question-images/13-16/13-16_02.png",
       answers: [
         {
           text: "No, because there is no queue of vehicles in the right lane",
@@ -113,7 +113,7 @@ export const chapter4: Chapter = {
     {
       id: 9,
       question: "What must you reckon with on this Highway car park?",
-      img: "/13-16/13-16_03.png",
+      img: "/question-images/13-16/13-16_03.png",
       answers: [
         { text: "People suddenly stepping onto the roadway", isCorrect: true },
         { text: "Danger of skidding when you brake", isCorrect: true },
@@ -125,7 +125,7 @@ export const chapter4: Chapter = {
       id: 10,
       question:
         "You are driving at least 20 km/h faster than the truck. What is correct?",
-      img: "/13-16/13-16_04.png",
+      img: "/question-images/13-16/13-16_04.png",
       answers: [
         {
           text: "Overtake the truck on the left and join the Highway",
@@ -170,7 +170,7 @@ export const chapter4: Chapter = {
       id: 13,
       question:
         "You are approaching the vehicles in the picture. What do you do?",
-      img: "/13-16/13-16_05.png",
+      img: "/question-images/13-16/13-16_05.png",
       answers: [
         {
           text: "Stay in the middle lane, reduce speed and do not overtake the cars",
@@ -183,7 +183,7 @@ export const chapter4: Chapter = {
     {
       id: 14,
       question: "What must you do here?",
-      img: "/13-16/13-16_06.png",
+      img: "/question-images/13-16/13-16_06.png",
       answers: [
         {
           text: "Check your speed again and, if necessary, brake",
@@ -196,7 +196,7 @@ export const chapter4: Chapter = {
     {
       id: 15,
       question: "What must you reckon with here?",
-      img: "/13-16/13-16_07.png",
+      img: "/question-images/13-16/13-16_07.png",
       answers: [
         { text: "A traffic jam on the bend", isCorrect: true },
         { text: "The bend will narrow", isCorrect: true },

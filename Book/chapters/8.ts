@@ -155,7 +155,7 @@ export const chapter8: Chapter = {
     {
       id: 8,
       question: "You want to set off from the driveway. Who must wait?",
-      img: "/85-99/85-99_01.png",
+      img: "/question-images/85-99/85-99_01.png",
       answers: [
         {
           text: "You must wait",
@@ -175,7 +175,7 @@ export const chapter8: Chapter = {
       id: 9,
       question:
         "By mistake, you have taken the right-hand lane but wish to turn left. What do you do?",
-      img: "/85-99/85-99_02.png",
+      img: "/question-images/85-99/85-99_02.png",
       answers: [
         {
           text: "Proceed straight ahead or turn right",
@@ -257,7 +257,7 @@ export const chapter8: Chapter = {
     {
       id: 13,
       question: "You want to proceed straight ahead. What do you do?",
-      img: "/85-99/85-99_04.png",
+      img: "/question-images/85-99/85-99_04.png",
       answers: [
         {
           text: "Reduce speed, keep your distance and, if necessary, stop",
@@ -281,7 +281,7 @@ export const chapter8: Chapter = {
       id: 14,
       question:
         "You have taken the left lane by mistake although you want to turn right. How are you allowed to proceed?",
-      img: "/85-99/85-99_05.png",
+      img: "/question-images/85-99/85-99_05.png",
       answers: [
         {
           text: "Straight ahead",
@@ -304,7 +304,7 @@ export const chapter8: Chapter = {
     {
       id: 15,
       question: "What do you do if you want to drive straight on?",
-      img: "/85-99/85-99_06.png",
+      img: "/question-images/85-99/85-99_06.png",
       answers: [
         {
           text: "Brake so that the driver in front can change lanes",
@@ -324,7 +324,7 @@ export const chapter8: Chapter = {
       id: 16,
       question:
         "A car is reversing into a parking space. The vehicle is traveling in front of you moving into the right-hand lane. What should you do?",
-      img: "/85-99/85-99_08.png",
+      img: "/question-images/85-99/85-99_08.png",
       answers: [
         {
           text: "If traffic behind permits, move into the right-hand lane too",
@@ -348,7 +348,7 @@ export const chapter8: Chapter = {
       id: 17,
       question:
         "You are approaching the vehicles in this picture. What do you do?",
-      img: "/85-99/85-99_07.png",
+      img: "/question-images/85-99/85-99_07.png",
       answers: [
         {
           text: "Watch if the truck and trailer remain on the hard shoulder",
@@ -393,7 +393,7 @@ export const chapter8: Chapter = {
     {
       id: 19,
       question: "What must you reckon with here?",
-      img: "/85-99/85-99_09.png",
+      img: "/question-images/85-99/85-99_09.png",
       answers: [
         {
           text: "The vehicle in front changing lanes",
@@ -417,7 +417,7 @@ export const chapter8: Chapter = {
       id: 20,
       question:
         "You are approaching the truck and trailer which is changing into your lane at about 60 km/h. Which possibilities do you have?",
-      img: "/85-99/85-99_10.png",
+      img: "/question-images/85-99/85-99_10.png",
       answers: [
         {
           text: "Keep in lane and let the truck and trailer filter in",
@@ -459,7 +459,7 @@ export const chapter8: Chapter = {
     {
       id: 22,
       question: "Who must wait?",
-      img: "/85-99/85-99_11.png",
+      img: "/question-images/85-99/85-99_11.png",
       answers: [
         {
           text: "I must wait",
@@ -478,7 +478,7 @@ export const chapter8: Chapter = {
     {
       id: 23,
       question: "What do you do?",
-      img: "/85-99/85-99_13.png",
+      img: "/question-images/85-99/85-99_13.png",
       answers: [
         {
           text: "Reduce speed and, if necessary, stop",
@@ -497,7 +497,7 @@ export const chapter8: Chapter = {
     {
       id: 24,
       question: "What do you do in this situation?",
-      img: "/85-99/85-99_12.png",
+      img: "/question-images/85-99/85-99_12.png",
       answers: [
         {
           text: "Stop, if you cannot pass without danger",
@@ -693,7 +693,7 @@ export const chapter8: Chapter = {
     {
       id: 33,
       question: "What must you reckon with in this situation?",
-      img: "/85-99/85-99_14.png",
+      img: "/question-images/85-99/85-99_14.png",
       answers: [
         {
           text: "The cyclist will pass the parked car on the left",
@@ -716,7 +716,7 @@ export const chapter8: Chapter = {
     {
       id: 34,
       question: "What are you prepared for?",
-      img: "/85-99/85-99_15.png",
+      img: "/question-images/85-99/85-99_15.png",
       answers: [
         {
           text: "The cyclist's riding will be extremely unsteady due to the weight on the carrier",
@@ -739,7 +739,7 @@ export const chapter8: Chapter = {
     {
       id: 35,
       question: "What must you do?",
-      img: "/85-99/85-99_16.png",
+      img: "/question-images/85-99/85-99_16.png",
       answers: [
         {
           text: "Overtake the cyclist only after you have passed the stationary vehicle",
@@ -762,7 +762,7 @@ export const chapter8: Chapter = {
     {
       id: 36,
       question: "What are you prepared for?",
-      img: "/85-99/85-99_17.png",
+      img: "/question-images/85-99/85-99_17.png",
       answers: [
         {
           text: "With the danger of deeper potholes",
@@ -808,7 +808,7 @@ export const chapter8: Chapter = {
     {
       id: 38,
       question: "What do you do?",
-      img: "/85-99/85-99_18.png",
+      img: "/question-images/85-99/85-99_18.png",
       answers: [
         {
           text: "Overtake only after you have passed the vehicle",
@@ -1109,7 +1109,7 @@ export const chapter8: Chapter = {
     {
       id: 52,
       question: "What must you do on this country road?",
-      img: "/85-99/85-99_19.png",
+      img: "/question-images/85-99/85-99_19.png",
       answers: [
         {
           text: "Stop overtaking and move back to the left",
@@ -1132,7 +1132,7 @@ export const chapter8: Chapter = {
     {
       id: 53,
       question: "Why could overtaking be dangerous here?",
-      img: "/85-99/85-99_21.png",
+      img: "/question-images/85-99/85-99_21.png",
       answers: [
         {
           text: "There is still slush on the overtaking lane",
@@ -1182,7 +1182,7 @@ export const chapter8: Chapter = {
     {
       id: 55,
       question: "What must you remember if you want to overtake?",
-      img: "/85-99/85-99_20.png",
+      img: "/question-images/85-99/85-99_20.png",
       answers: [
         {
           text: "The van could start to overtake the vehicle traveling in front of it",
@@ -1206,7 +1206,7 @@ export const chapter8: Chapter = {
       id: 56,
       question:
         "Both cars are traveling at about 30 km/h. Are you allowed to overtake both before the bend?",
-      img: "/85-99/85-99_22.png",
+      img: "/question-images/85-99/85-99_22.png",
       answers: [
         {
           text: "No, because the distance you need to overtake would be too great",
@@ -1230,7 +1230,7 @@ export const chapter8: Chapter = {
       id: 57,
       question:
         "The driver of the overtaking car has evidently made a miscalculation. What must you do?",
-      img: "/85-99/85-99_23.png",
+      img: "/question-images/85-99/85-99_23.png",
       answers: [
         {
           text: "Brake immediately and veer to the left",
@@ -1268,7 +1268,7 @@ export const chapter8: Chapter = {
     {
       id: 59,
       question: "Are you allowed to overtake the cyclists?",
-      img: "/85-99/85-99_24.png",
+      img: "/question-images/85-99/85-99_24.png",
       answers: [
         {
           text: "No, because your visibility is insufficient",
@@ -1666,7 +1666,7 @@ export const chapter8: Chapter = {
     {
       id: 78,
       question: "What must you do?",
-      img: "/85-99/85-99_29.png",
+      img: "/question-images/85-99/85-99_29.png",
 
       answers: [
         {
@@ -1709,7 +1709,7 @@ export const chapter8: Chapter = {
     {
       id: 80,
       question: "You want to turn left. What do you do?",
-      img: "/85-99/85-99_25.png",
+      img: "/question-images/85-99/85-99_25.png",
       answers: [
         {
           text: "Allow the cyclist to continue straight on",
@@ -1728,7 +1728,7 @@ export const chapter8: Chapter = {
     {
       id: 81,
       question: "Which conduct is right?",
-      img: "/85-99/85-99_26.png",
+      img: "/question-images/85-99/85-99_26.png",
       answers: [
         {
           text: "I must stop first at the stopping line",
@@ -1751,7 +1751,7 @@ export const chapter8: Chapter = {
     {
       id: 82,
       question: "Which conduct is right?",
-      img: "/85-99/85-99_27.png",
+      img: "/question-images/85-99/85-99_27.png",
       answers: [
         {
           text: "I must let the yellow truck pass",
@@ -1789,7 +1789,7 @@ export const chapter8: Chapter = {
     {
       id: 84,
       question: "Which line must you follow?",
-      img: "/85-99/85-99_28.png",
+      img: "/question-images/85-99/85-99_28.png",
       answers: [
         {
           text: "The line on the left.",
@@ -1808,7 +1808,7 @@ export const chapter8: Chapter = {
     {
       id: 85,
       question: "Which line must you follow in this one-way street?",
-      img: "/85-99/85-99_30.png",
+      img: "/question-images/85-99/85-99_30.png",
       answers: [
         {
           text: "The line on the right",
@@ -1828,7 +1828,7 @@ export const chapter8: Chapter = {
       id: 86,
       question:
         "After turning right, you want to turn immediately left. How should you position your vehicle?",
-      img: "/85-99/85-99_31.png",
+      img: "/question-images/85-99/85-99_31.png",
       answers: [
         {
           text: "Like the red car",
@@ -1848,7 +1848,7 @@ export const chapter8: Chapter = {
       id: 87,
       question:
         "All three vehicles want to turn right. Which is in the correct line?",
-      img: "/85-99/85-99_33.png",
+      img: "/question-images/85-99/85-99_33.png",
       answers: [
         {
           text: "The yellow car",
@@ -1867,7 +1867,7 @@ export const chapter8: Chapter = {
     {
       id: 88,
       question: "Who must signal a change of direction here?",
-      img: "/85-99/85-99_32.png",
+      img: "/question-images/85-99/85-99_32.png",
       answers: [
         {
           text: "I myself",
@@ -1894,7 +1894,7 @@ export const chapter8: Chapter = {
     {
       id: 89,
       question: "Who must signal a change of direction here?",
-      img: "/85-99/85-99_34.png",
+      img: "/question-images/85-99/85-99_34.png",
       answers: [
         {
           text: "I, myself",
@@ -1917,7 +1917,7 @@ export const chapter8: Chapter = {
     {
       id: 90,
       question: "Who must signal a change of direction?",
-      img: "/85-99/85-99_35.png",
+      img: "/question-images/85-99/85-99_35.png",
       answers: [
         {
           text: "I, myself",
@@ -1940,7 +1940,7 @@ export const chapter8: Chapter = {
     {
       id: 91,
       question: "Who must signal a change of direction here?",
-      img: "/85-99/85-99_36.png",
+      img: "/question-images/85-99/85-99_36.png",
       answers: [
         {
           text: "The motorcycle",
@@ -1997,7 +1997,7 @@ export const chapter8: Chapter = {
     {
       id: 94,
       question: "What must you do?",
-      img: "/85-99/85-99_37.png",
+      img: "/question-images/85-99/85-99_37.png",
       answers: [
         {
           text: "Allow both pedestrians to cross",

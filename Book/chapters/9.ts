@@ -51,7 +51,7 @@ export const chapter9: Chapter = {
     {
       id: 3,
       question: "What must be remembered here?",
-      img: "/101-106/101-106_01.png",
+      img: "/question-images/101-106/101-106_01.png",
       answers: [
         {
           text: "It is forbidden to stop on the right of the roadway boundary marking",
@@ -256,7 +256,7 @@ export const chapter9: Chapter = {
     {
       id: 13,
       question: "Who has parked incorrectly?",
-      img: "/101-106/101-106_02.png",
+      img: "/question-images/101-106/101-106_02.png",
       answers: [
         {
           text: "The light-coloured car",
@@ -313,7 +313,7 @@ export const chapter9: Chapter = {
     {
       id: 16,
       question: "Who has stopped incorrectly?",
-      img: "/101-106/101-106_03.png",
+      img: "/question-images/101-106/101-106_03.png",
       answers: [
         {
           text: "The red car",
@@ -351,7 +351,7 @@ export const chapter9: Chapter = {
     {
       id: 18,
       question: "Who has stopped incorrectly?",
-      img: "/101-106/101-106_04.png",
+      img: "/question-images/101-106/101-106_04.png",
       answers: [
         {
           text: "The red car",
@@ -412,7 +412,7 @@ export const chapter9: Chapter = {
     {
       id: 21,
       question: "Both cars want to park here. Which car takes precedence?",
-      img: "/101-106/101-106_05.png",
+      img: "/question-images/101-106/101-106_05.png",
       answers: [
         {
           text: "The red car",

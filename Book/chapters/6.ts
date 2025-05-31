@@ -7,7 +7,7 @@ export const chapter6: Chapter = {
     {
       id: 1,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_02.png",
+      img: "/question-images/47-74/47-74_02.png",
       answers: [
         {
           text: "Give precedence to oncoming traffic",
@@ -30,7 +30,7 @@ export const chapter6: Chapter = {
     {
       id: 2,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_01.jpg",
+      img: "/question-images/47-74/47-74_01.jpg",
       answers: [
         {
           text: "Reduce Speed",
@@ -53,7 +53,7 @@ export const chapter6: Chapter = {
     {
       id: 3,
       question: "What should you remember when you see this traffic sign?",
-      img: "/47-74/47-74_197.png",
+      img: "/question-images/47-74/47-74_197.png",
       answers: [
         {
           text: "Braking distance is greater on downhill slopes than on level ground",
@@ -76,7 +76,7 @@ export const chapter6: Chapter = {
     {
       id: 4,
       question: "You see this traffic sign. What must you reckon with?",
-      img: "/47-74/47-74_198.png",
+      img: "/question-images/47-74/47-74_198.png",
       answers: [
         {
           text: "Oncoming traffic",
@@ -99,7 +99,7 @@ export const chapter6: Chapter = {
     {
       id: 5,
       question: "What does this traffic sign require of you?",
-      img: "/47-74/47-74_146.png",
+      img: "/question-images/47-74/47-74_146.png",
       answers: [
         {
           text: "Greatest alertness",
@@ -126,7 +126,7 @@ export const chapter6: Chapter = {
     {
       id: 6,
       question: "What should you remember when you see this traffic sign?",
-      img: "/47-74/47-74_171.png",
+      img: "/question-images/47-74/47-74_171.png",
       answers: [
         {
           text: "Avoid stopping and parking because of the danger of falling rocks",
@@ -153,7 +153,7 @@ export const chapter6: Chapter = {
     {
       id: 7,
       question: "What must you reckon with when you see this traffic sign?",
-      img: "/47-74/47-74_147.png",
+      img: "/question-images/47-74/47-74_147.png",
       answers: [
         {
           text: "Cyclists crossing the roadway",
@@ -173,7 +173,7 @@ export const chapter6: Chapter = {
       id: 8,
       question:
         "What must you be prepared for when you pass these traffic signs?",
-      img: "/47-74/47-74_148.png",
+      img: "/question-images/47-74/47-74_148.png",
       answers: [
         {
           text: "That this road may be used by domestic animals",
@@ -197,7 +197,7 @@ export const chapter6: Chapter = {
       id: 9,
       question:
         "You pass this traffic sign while driving outside a built-up area. How far off is the hazard to be expected?",
-      img: "/47-74/47-74_172.png",
+      img: "/question-images/47-74/47-74_172.png",
       answers: [
         {
           text: "Between 150 m and 250 m",
@@ -216,7 +216,7 @@ export const chapter6: Chapter = {
     {
       id: 10,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_200.png",
+      img: "/question-images/47-74/47-74_200.png",
       answers: [
         {
           text: "There is a sharp right bend ahead",
@@ -235,7 +235,7 @@ export const chapter6: Chapter = {
     {
       id: 11,
       question: "What must you remember when you see these traffic signs?",
-      img: "/47-74/47-74_201.png",
+      img: "/question-images/47-74/47-74_201.png",
       answers: [
         {
           text: "You must expect soft verges",
@@ -254,7 +254,7 @@ export const chapter6: Chapter = {
     {
       id: 12,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_132.png",
+      img: "/question-images/47-74/47-74_132.png",
       answers: [
         {
           text: "Reduce your speed",
@@ -277,7 +277,7 @@ export const chapter6: Chapter = {
     {
       id: 13,
       question: "What do you have to expect after this traffic sign?",
-      img: "/47-74/47-74_202.png",
+      img: "/question-images/47-74/47-74_202.png",
       answers: [
         {
           text: "A downhill slope 800 m in length",
@@ -296,7 +296,7 @@ export const chapter6: Chapter = {
     {
       id: 14,
       question: "What dangers can arise if this traffic sign is ignored?",
-      img: "/47-74/47-74_168.png",
+      img: "/question-images/47-74/47-74_168.png",
       answers: [
         {
           text: "The vehicle could go into a skid and endanger oncoming traffic",
@@ -323,7 +323,7 @@ export const chapter6: Chapter = {
     {
       id: 15,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_203.png",
+      img: "/question-images/47-74/47-74_203.png",
       answers: [
         {
           text: "Change down gear, if necessary",
@@ -342,7 +342,7 @@ export const chapter6: Chapter = {
     {
       id: 16,
       question: "What is this traffic sign a warning of?",
-      img: "/47-74/47-74_144.png",
+      img: "/question-images/47-74/47-74_144.png",
       answers: [
         {
           text: "Unexpected pedestrians from the left",
@@ -365,7 +365,7 @@ export const chapter6: Chapter = {
     {
       id: 17,
       question: "What should you do when you approach this traffic sign?",
-      img: "/47-74/47-74_167.png",
+      img: "/question-images/47-74/47-74_167.png",
       answers: [
         {
           text: "Reduce your speed",
@@ -384,7 +384,7 @@ export const chapter6: Chapter = {
     {
       id: 18,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_166.png",
+      img: "/question-images/47-74/47-74_166.png",
       answers: [
         {
           text: "Reduce your speed, if necessary",
@@ -407,7 +407,7 @@ export const chapter6: Chapter = {
     {
       id: 19,
       question: "What must you do when you see this traffic sign?",
-      img: "/47-74/47-74_169.png",
+      img: "/question-images/47-74/47-74_169.png",
       answers: [
         {
           text: "Avoid braking heavily",
@@ -430,7 +430,7 @@ export const chapter6: Chapter = {
     {
       id: 20,
       question: "What must you reckon with when you see these traffic signs?",
-      img: "/47-74/47-74_204.png",
+      img: "/question-images/47-74/47-74_204.png",
       answers: [
         {
           text: "The roadway narrowing approximately 50 m ahead",
@@ -450,7 +450,7 @@ export const chapter6: Chapter = {
       id: 21,
       question:
         "What must you avoid at a danger point marked by this traffic sign?",
-      img: "/47-74/47-74_205.jpg",
+      img: "/question-images/47-74/47-74_205.jpg",
       answers: [
         {
           text: "Accelerating strongly",
@@ -477,7 +477,7 @@ export const chapter6: Chapter = {
     {
       id: 22,
       question: "What must you reckon with when you see this traffic sign?",
-      img: "/47-74/47-74_206.jpg",
+      img: "/question-images/47-74/47-74_206.jpg",
       answers: [
         {
           text: "Traffic from road construction vehicles",
@@ -504,7 +504,7 @@ export const chapter6: Chapter = {
     {
       id: 23,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_164.png",
+      img: "/question-images/47-74/47-74_164.png",
       answers: [
         {
           text: "Reduce your speed",
@@ -527,7 +527,7 @@ export const chapter6: Chapter = {
     {
       id: 24,
       question: "What must you expect when you see this traffic sign?",
-      img: "/47-74/47-74_207.png",
+      img: "/question-images/47-74/47-74_207.png",
       answers: [
         {
           text: "Start of roadworks 100 m ahead",
@@ -546,7 +546,7 @@ export const chapter6: Chapter = {
     {
       id: 25,
       question: "What must you reckon with when you see this traffic sign?",
-      img: "/47-74/47-74_180.png",
+      img: "/question-images/47-74/47-74_180.png",
       answers: [
         {
           text: "Traffic congestion",
@@ -569,7 +569,7 @@ export const chapter6: Chapter = {
     {
       id: 26,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_141.png",
+      img: "/question-images/47-74/47-74_141.png",
       answers: [
         {
           text: "Traffic-lights",
@@ -588,7 +588,7 @@ export const chapter6: Chapter = {
     {
       id: 27,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_208.jpg",
+      img: "/question-images/47-74/47-74_208.jpg",
       answers: [
         {
           text: "Check whether the bridge is passable",
@@ -611,7 +611,7 @@ export const chapter6: Chapter = {
     {
       id: 28,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_144.png",
+      img: "/question-images/47-74/47-74_144.png",
       answers: [
         {
           text: "A Pedestrian crossing",
@@ -630,7 +630,7 @@ export const chapter6: Chapter = {
     {
       id: 29,
       question: "What should you remember when you see this traffic sign?",
-      img: "/47-74/47-74_174.png",
+      img: "/question-images/47-74/47-74_174.png",
       answers: [
         {
           text: "The road leads to a river bank",
@@ -653,7 +653,7 @@ export const chapter6: Chapter = {
     {
       id: 30,
       question: "What must you reckon with when you see this traffic sign?",
-      img: "/47-74/47-74_148.png",
+      img: "/question-images/47-74/47-74_148.png",
       answers: [
         {
           text: "A heavily soiled roadway",
@@ -676,7 +676,7 @@ export const chapter6: Chapter = {
     {
       id: 31,
       question: "What must you reckon with when you see this traffic sign?",
-      img: "/47-74/47-74_177.png",
+      img: "/question-images/47-74/47-74_177.png",
       answers: [
         {
           text: "Sudden airplane noise",
@@ -699,7 +699,7 @@ export const chapter6: Chapter = {
     {
       id: 32,
       question: "What do these traffic signs indicate?",
-      img: "/47-74/47-74_209.png",
+      img: "/question-images/47-74/47-74_209.png",
       answers: [
         {
           text: "A level crossing on the road turning right",
@@ -718,7 +718,7 @@ export const chapter6: Chapter = {
     {
       id: 33,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_210.png",
+      img: "/question-images/47-74/47-74_210.png",
       answers: [
         {
           text: "A level crossing with barriers",
@@ -737,7 +737,7 @@ export const chapter6: Chapter = {
     {
       id: 34,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_211.jpg",
+      img: "/question-images/47-74/47-74_211.jpg",
       answers: [
         {
           text: "A level crossing with barriers approximately 240 m ahead",
@@ -756,7 +756,7 @@ export const chapter6: Chapter = {
     {
       id: 35,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_154.png",
+      img: "/question-images/47-74/47-74_154.png",
       answers: [
         {
           text: "A level crossing without barriers",
@@ -775,7 +775,7 @@ export const chapter6: Chapter = {
     {
       id: 36,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_212.jpg",
+      img: "/question-images/47-74/47-74_212.jpg",
       answers: [
         {
           text: "A level crossing without barriers approximately 240 m ahead",
@@ -794,7 +794,7 @@ export const chapter6: Chapter = {
     {
       id: 37,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_213.png",
+      img: "/question-images/47-74/47-74_213.png",
       answers: [
         {
           text: "A level crossing approximately 160 m ahead",
@@ -813,7 +813,7 @@ export const chapter6: Chapter = {
     {
       id: 38,
       question: "What do you do when you see this traffic sign on a Freeway?",
-      img: "/47-74/47-74_180.png",
+      img: "/question-images/47-74/47-74_180.png",
       answers: [
         {
           text: "Increase your alertness and, as a matter of precaution, increase your distance to the vehicle in front",
@@ -836,7 +836,7 @@ export const chapter6: Chapter = {
     {
       id: 39,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_214.png",
+      img: "/question-images/47-74/47-74_214.png",
       answers: [
         {
           text: "A level crossing approximately 80 m ahead",
@@ -855,7 +855,7 @@ export const chapter6: Chapter = {
     {
       id: 40,
       question: "What must you do when you see this traffic sign?",
-      img: "/47-74/47-74_215.png",
+      img: "/question-images/47-74/47-74_215.png",
       answers: [
         {
           text: "Reduce speed before the bend",
@@ -878,7 +878,7 @@ export const chapter6: Chapter = {
     {
       id: 41,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_175.png",
+      img: "/question-images/47-74/47-74_175.png",
       answers: [
         {
           text: "Reduce speed when there is side wind",
@@ -901,7 +901,7 @@ export const chapter6: Chapter = {
     {
       id: 42,
       question: "What do you do within this danger section?",
-      img: "/47-74/47-74_216.png",
+      img: "/question-images/47-74/47-74_216.png",
       answers: [
         {
           text: "Drive more slowly, watch out for game animals",
@@ -928,7 +928,7 @@ export const chapter6: Chapter = {
     {
       id: 43,
       question: "When must you wait at this traffic sign?",
-      img: "/47-74/47-74_217.png",
+      img: "/question-images/47-74/47-74_217.png",
       answers: [
         {
           text: "When a railway employee is waving a white-red-white flag",
@@ -955,7 +955,7 @@ export const chapter6: Chapter = {
     {
       id: 44,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_24.png",
+      img: "/question-images/47-74/47-74_24.png",
       answers: [
         {
           text: "You must indicate right",
@@ -978,7 +978,7 @@ export const chapter6: Chapter = {
     {
       id: 45,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_7.png",
+      img: "/question-images/47-74/47-74_7.png",
       answers: [
         {
           text: "Approach cautiously at moderate speed",
@@ -1001,7 +1001,7 @@ export const chapter6: Chapter = {
     {
       id: 46,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_20.png",
+      img: "/question-images/47-74/47-74_20.png",
       answers: [
         {
           text: "You must indicate left",
@@ -1024,7 +1024,7 @@ export const chapter6: Chapter = {
     {
       id: 47,
       question: "What must you do at this traffic sign?",
-      img: "/47-74/47-74_1.png",
+      img: "/question-images/47-74/47-74_1.png",
       answers: [
         {
           text: "Stop at the stop line and, if necessary, stop again at a point where you can see along the intersecting road (sight line) and give way",
@@ -1047,7 +1047,7 @@ export const chapter6: Chapter = {
     {
       id: 48,
       question: "In which directions may you proceed?",
-      img: "/47-74/47-74_218.png",
+      img: "/question-images/47-74/47-74_218.png",
       answers: [
         {
           text: "Straight ahead",
@@ -1070,7 +1070,7 @@ export const chapter6: Chapter = {
     {
       id: 49,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_10.png",
+      img: "/question-images/47-74/47-74_10.png",
       answers: [
         {
           text: "Vehicles may come out of this road",
@@ -1093,7 +1093,7 @@ export const chapter6: Chapter = {
     {
       id: 50,
       question: "What is permitted when you see these traffic signs?",
-      img: "/47-74/47-74_222.png",
+      img: "/question-images/47-74/47-74_222.png",
       answers: [
         {
           text: "Severely disabled persons with the appropriate numbered parking permit may park here",
@@ -1116,7 +1116,7 @@ export const chapter6: Chapter = {
     {
       id: 51,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_223.png",
+      img: "/question-images/47-74/47-74_223.png",
       answers: [
         {
           text: "You may not stop",
@@ -1135,7 +1135,7 @@ export const chapter6: Chapter = {
     {
       id: 52,
       question: "What do these traffic signs tell you?",
-      img: "/47-74/47-74_224.png",
+      img: "/question-images/47-74/47-74_224.png",
       answers: [
         {
           text: "There is a “Stop” sign 100m ahead",
@@ -1154,7 +1154,7 @@ export const chapter6: Chapter = {
     {
       id: 53,
       question: "What is allowed at this traffic sign?",
-      img: "/47-74/47-74_225.png",
+      img: "/question-images/47-74/47-74_225.png",
       answers: [
         {
           text: "Stopping for loading or unloading, for alighting or boarding vehicles",
@@ -1177,7 +1177,7 @@ export const chapter6: Chapter = {
     {
       id: 54,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_15.png",
+      img: "/question-images/47-74/47-74_15.png",
       answers: [
         {
           text: "You must give precedence to oncoming traffic",
@@ -1196,7 +1196,7 @@ export const chapter6: Chapter = {
     {
       id: 55,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_19.png",
+      img: "/question-images/47-74/47-74_19.png",
       answers: [
         {
           text: "You must pass on the right of Traffic Islands",
@@ -1215,7 +1215,7 @@ export const chapter6: Chapter = {
     {
       id: 56,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_219.png",
+      img: "/question-images/47-74/47-74_219.png",
       answers: [
         {
           text: "You may not drive a motor vehicle in this pedestrian precinct",
@@ -1235,7 +1235,7 @@ export const chapter6: Chapter = {
       id: 57,
       question:
         "You are approaching a bus stop marked like this. What do you do if you see children there?",
-      img: "/47-74/47-74_220.png",
+      img: "/question-images/47-74/47-74_220.png",
       answers: [
         {
           text: "Reduce your speed and be ready to brake",
@@ -1254,7 +1254,7 @@ export const chapter6: Chapter = {
     {
       id: 58,
       question: "Which vehicles are not allowed to use this road?",
-      img: "/47-74/47-74_221.png",
+      img: "/question-images/47-74/47-74_221.png",
       answers: [
         {
           text: "Motor vehicles of any kind",
@@ -1273,7 +1273,7 @@ export const chapter6: Chapter = {
     {
       id: 59,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_226.png",
+      img: "/question-images/47-74/47-74_226.png",
       answers: [
         {
           text: "A special path for pedestrians",
@@ -1296,7 +1296,7 @@ export const chapter6: Chapter = {
     {
       id: 60,
       question: "Which vehicles are not allowed to drive here?",
-      img: "/47-74/47-74_227.png",
+      img: "/question-images/47-74/47-74_227.png",
       answers: [
         {
           text: "Mopeds",
@@ -1316,7 +1316,7 @@ export const chapter6: Chapter = {
     {
       id: 61,
       question: "What do these traffic signs allow?",
-      img: "/47-74/47-74_228.png",
+      img: "/question-images/47-74/47-74_228.png",
       answers: [
         {
           text: "Residents holding a parking license with corresponding number may park here",
@@ -1335,7 +1335,7 @@ export const chapter6: Chapter = {
     {
       id: 62,
       question: "Which vehicles are allowed to park here?",
-      img: "/47-74/47-74_229.png",
+      img: "/question-images/47-74/47-74_229.png",
       answers: [
         {
           text: "Vehicles with a permissible total mass of up to 2.8 t",
@@ -1358,7 +1358,7 @@ export const chapter6: Chapter = {
     {
       id: 63,
       question: "Who may park here?",
-      img: "/47-74/47-74_230.png",
+      img: "/question-images/47-74/47-74_230.png",
       answers: [
         {
           text: "A car for a seriously disabled person with a special walking disability",
@@ -1377,7 +1377,7 @@ export const chapter6: Chapter = {
     {
       id: 64,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_231.png",
+      img: "/question-images/47-74/47-74_231.png",
       answers: [
         {
           text: "A parking space connected to local public transport",
@@ -1396,7 +1396,7 @@ export const chapter6: Chapter = {
     {
       id: 65,
       question: "What must you observe when parking here?",
-      img: "/47-74/47-74_232.png",
+      img: "/question-images/47-74/47-74_232.png",
       answers: [
         {
           text: "The parking time indicated on the parking ticket may not be exceeded",
@@ -1419,7 +1419,7 @@ export const chapter6: Chapter = {
     {
       id: 66,
       question: "What must you reckon with when you see this traffic sign?",
-      img: "/47-74/47-74_233.png",
+      img: "/question-images/47-74/47-74_233.png",
       answers: [
         {
           text: "Hikers who have parked their car here temporarily",
@@ -1438,7 +1438,7 @@ export const chapter6: Chapter = {
     {
       id: 67,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_234.png",
+      img: "/question-images/47-74/47-74_234.png",
       answers: [
         {
           text: "The end of a traffic calmed area",
@@ -1457,7 +1457,7 @@ export const chapter6: Chapter = {
     {
       id: 68,
       question: "Pedestrians wish to cross the road. What do you do?",
-      img: "/47-74/47-74_235.png",
+      img: "/question-images/47-74/47-74_235.png",
       answers: [
         {
           text: "Approach the pedestrian crossing at moderate speed and, if necessary, wait",
@@ -1481,7 +1481,7 @@ export const chapter6: Chapter = {
       id: 69,
       question:
         "What must a motor vehicle's maximum speed, determined by its construction, be at least if you want to use this road?",
-      img: "/47-74/47-74_236.png",
+      img: "/question-images/47-74/47-74_236.png",
       answers: [
         {
           text: "((61)) km/h",
@@ -1500,7 +1500,7 @@ export const chapter6: Chapter = {
     {
       id: 70,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_237.png",
+      img: "/question-images/47-74/47-74_237.png",
       answers: [
         {
           text: "A cul-de-sac (ending) road",
@@ -1520,7 +1520,7 @@ export const chapter6: Chapter = {
       id: 71,
       question:
         "In which cases are you allowed to cross the line in the centre of the roadway?",
-      img: "/47-74/47-74_238.png",
+      img: "/question-images/47-74/47-74_238.png",
       answers: [
         {
           text: "To avoid an obstruction",
@@ -1543,7 +1543,7 @@ export const chapter6: Chapter = {
     {
       id: 72,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_239.svg",
+      img: "/question-images/47-74/47-74_239.svg",
       answers: [
         {
           text: "A first aid station",
@@ -1562,7 +1562,7 @@ export const chapter6: Chapter = {
     {
       id: 73,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_240.png",
+      img: "/question-images/47-74/47-74_240.png",
       answers: [
         {
           text: "A breakdown service",
@@ -1581,7 +1581,7 @@ export const chapter6: Chapter = {
     {
       id: 74,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_241.png",
+      img: "/question-images/47-74/47-74_241.png",
       answers: [
         {
           text: "A customs post",
@@ -1600,7 +1600,7 @@ export const chapter6: Chapter = {
     {
       id: 75,
       question: "What does this traffic sign mean?",
-      img: "/47-74/47-74_242.png",
+      img: "/question-images/47-74/47-74_242.png",
       answers: [
         {
           text: "The shoulder beside the roadway is not hard enough",
@@ -1619,7 +1619,7 @@ export const chapter6: Chapter = {
     {
       id: 76,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_243.png",
+      img: "/question-images/47-74/47-74_243.png",
       answers: [
         {
           text: "It indicates to the driver that there is a park-and-ride terminus",
@@ -1638,7 +1638,7 @@ export const chapter6: Chapter = {
     {
       id: 77,
       question: "What does this traffic sign mean?",
-      img: "/47-74/47-74_244.svg",
+      img: "/question-images/47-74/47-74_244.svg",
       answers: [
         {
           text: "The shoulder on the side of the roadway is not hard enough for vehicles with a permissible total mass of more than 3.5 t",
@@ -1661,7 +1661,7 @@ export const chapter6: Chapter = {
     {
       id: 78,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_245.png",
+      img: "/question-images/47-74/47-74_245.png",
       answers: [
         {
           text: "Coordinated robots at the average speed of 55 km/h",
@@ -1680,7 +1680,7 @@ export const chapter6: Chapter = {
     {
       id: 79,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_246.png",
+      img: "/question-images/47-74/47-74_246.png",
       answers: [
         {
           text: "A numbered diversion",
@@ -1699,7 +1699,7 @@ export const chapter6: Chapter = {
     {
       id: 80,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_247.png",
+      img: "/question-images/47-74/47-74_247.png",
       answers: [
         {
           text: "The end of the clearway for motor vehicles only",
@@ -1718,7 +1718,7 @@ export const chapter6: Chapter = {
     {
       id: 81,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_248.png",
+      img: "/question-images/47-74/47-74_248.png",
       answers: [
         {
           text: "A highway section which is normally not used very much",
@@ -1737,7 +1737,7 @@ export const chapter6: Chapter = {
     {
       id: 82,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_249.png",
+      img: "/question-images/47-74/47-74_249.png",
       answers: [
         {
           text: "It recommends not driving faster than 80 km/h even under good conditions",
@@ -1756,7 +1756,7 @@ export const chapter6: Chapter = {
     {
       id: 83,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_250.png",
+      img: "/question-images/47-74/47-74_250.png",
       answers: [
         {
           text: "The end of a dual carriageway",
@@ -1775,7 +1775,7 @@ export const chapter6: Chapter = {
     {
       id: 84,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_251.png",
+      img: "/question-images/47-74/47-74_251.png",
       answers: [
         {
           text: "The number of a dual carriageway",
@@ -1794,7 +1794,7 @@ export const chapter6: Chapter = {
     {
       id: 85,
       question: 'What does the figure "A. 1" indicate in this traffic sign?',
-      img: "/47-74/47-74_252.png",
+      img: "/question-images/47-74/47-74_252.png",
       answers: [
         {
           text: "Dual carriageway number A 1 leads to Francistown",
@@ -1813,7 +1813,7 @@ export const chapter6: Chapter = {
     {
       id: 86,
       question: "What applies from this traffic sign onwards?",
-      img: "/47-74/47-74_253.png",
+      img: "/question-images/47-74/47-74_253.png",
       answers: [
         {
           text: "You may not sound your horn to signal your intention to overtake",
@@ -1836,7 +1836,7 @@ export const chapter6: Chapter = {
     {
       id: 87,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_254.png",
+      img: "/question-images/47-74/47-74_254.png",
       answers: [
         {
           text: "A diversion for Highway traffic when required",
@@ -1856,7 +1856,7 @@ export const chapter6: Chapter = {
       id: 88,
       question:
         "How are vehicles with a permissible total mass up to 2.8 t allowed to be parked here?",
-      img: "/47-74/47-74_255.png",
+      img: "/question-images/47-74/47-74_255.png",
       answers: [
         {
           text: "The car as shown in the picture",
@@ -1875,7 +1875,7 @@ export const chapter6: Chapter = {
     {
       id: 89,
       question: "What applies from this traffic sign onwards?",
-      img: "/47-74/47-74_253.png",
+      img: "/question-images/47-74/47-74_253.png",
       answers: [
         {
           text: "Maximum permissible speed 60 km/h",
@@ -1921,7 +1921,7 @@ export const chapter6: Chapter = {
       id: 91,
       question:
         "You need assistance on the Freeway. Which information does the arrow in the roadside marker give you?",
-      img: "/47-74/47-74_256.png",
+      img: "/question-images/47-74/47-74_256.png",
       answers: [
         {
           text: "Nearest emergency call telephone in the direction of the arrow",
@@ -1941,7 +1941,7 @@ export const chapter6: Chapter = {
       id: 92,
       question:
         "You approach this traffic control facility on the Freeway. What do you do?",
-      img: "/47-74/47-74_257.png",
+      img: "/question-images/47-74/47-74_257.png",
       answers: [
         {
           text: "Change into the left lane, if necessary, using the zipper feed-in method",
@@ -2263,7 +2263,7 @@ export const chapter6: Chapter = {
     {
       id: 107,
       question: "What do you do here?",
-      img: "/47-74/47-74_258.png",
+      img: "/question-images/47-74/47-74_258.png",
       answers: [
         {
           text: "Approach at moderate speed and wait",
@@ -2347,7 +2347,7 @@ export const chapter6: Chapter = {
     {
       id: 111,
       question: "What do these traffic signs indicate?",
-      img: "/47-74/47-74_259.png",
+      img: "/question-images/47-74/47-74_259.png",
       answers: [
         {
           text: "No entry 100 m ahead",
@@ -2366,7 +2366,7 @@ export const chapter6: Chapter = {
     {
       id: 112,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_58.png",
+      img: "/question-images/47-74/47-74_58.png",
       answers: [
         {
           text: "You must not drive faster than 60 km/h",
@@ -2385,7 +2385,7 @@ export const chapter6: Chapter = {
     {
       id: 113,
       question: "Which vehicles may proceed here?",
-      img: "/47-74/47-74_260.png",
+      img: "/question-images/47-74/47-74_260.png",
       answers: [
         {
           text: "Cars with a “SMOG label”",
@@ -2408,7 +2408,7 @@ export const chapter6: Chapter = {
     {
       id: 114,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_261.png",
+      img: "/question-images/47-74/47-74_261.png",
       answers: [
         {
           text: "The start of a zone with a permitted maximum speed of 30 km/h",
@@ -2427,7 +2427,7 @@ export const chapter6: Chapter = {
     {
       id: 115,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_77.png",
+      img: "/question-images/47-74/47-74_77.png",
       answers: [
         {
           text: "No turning",
@@ -2447,7 +2447,7 @@ export const chapter6: Chapter = {
       id: 116,
       question:
         "A traffic calmed commercial zone starts here. What must you do?",
-      img: "/47-74/47-74_261.png",
+      img: "/question-images/47-74/47-74_261.png",
       answers: [
         {
           text: "You must specifically watch out for busy pedestrian traffic",
@@ -2470,7 +2470,7 @@ export const chapter6: Chapter = {
     {
       id: 117,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_262.png",
+      img: "/question-images/47-74/47-74_262.png",
       answers: [
         {
           text: "The end of a zone with a permitted maximum speed of 30 km/h",
@@ -2490,7 +2490,7 @@ export const chapter6: Chapter = {
       id: 118,
       question:
         "Which vehicles are you allowed to overtake where you see this traffic sign?",
-      img: "/47-74/47-74_263.png",
+      img: "/question-images/47-74/47-74_263.png",
       answers: [
         {
           text: "Motorcycle without sidecar",
@@ -2509,7 +2509,7 @@ export const chapter6: Chapter = {
     {
       id: 119,
       question: "Are you allowed to drive at a speed faster than 60 km/h here?",
-      img: "/47-74/47-74_264.png",
+      img: "/question-images/47-74/47-74_264.png",
       answers: [
         {
           text: "Yes if the roadway is dry",
@@ -2528,7 +2528,7 @@ export const chapter6: Chapter = {
     {
       id: 120,
       question: "What do these traffic signs indicate?",
-      img: "/47-74/47-74_265.png",
+      img: "/question-images/47-74/47-74_265.png",
       answers: [
         {
           text: "No overtaking for 3 km",
@@ -2547,7 +2547,7 @@ export const chapter6: Chapter = {
     {
       id: 121,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_266.png",
+      img: "/question-images/47-74/47-74_266.png",
       answers: [
         {
           text: "You must drive at least at a speed of 60 km/h, weather and traffic conditions permitting",
@@ -2570,7 +2570,7 @@ export const chapter6: Chapter = {
     {
       id: 122,
       question: "What do these traffic signs indicate?",
-      img: "/47-74/47-74_267.png",
+      img: "/question-images/47-74/47-74_267.png",
       answers: [
         {
           text: "Start of a no-overtaking area 200 m ahead",
@@ -2589,7 +2589,7 @@ export const chapter6: Chapter = {
     {
       id: 123,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_271.png",
+      img: "/question-images/47-74/47-74_271.png",
       answers: [
         {
           text: "End of speed restriction",
@@ -2608,7 +2608,7 @@ export const chapter6: Chapter = {
     {
       id: 124,
       question: "What is allowed in the zone which starts here?",
-      img: "/47-74/47-74_269.png",
+      img: "/question-images/47-74/47-74_269.png",
       answers: [
         {
           text: "Waiting for up to 3 minutes",
@@ -2631,7 +2631,7 @@ export const chapter6: Chapter = {
     {
       id: 125,
       question: "Which prohibitions are ended by these traffic signs?",
-      img: "/47-74/47-74_270.png",
+      img: "/question-images/47-74/47-74_270.png",
       answers: [
         {
           text: "No overtaking",
@@ -2654,7 +2654,7 @@ export const chapter6: Chapter = {
     {
       id: 126,
       question: "What ends here?",
-      img: "/47-74/47-74_268.png",
+      img: "/question-images/47-74/47-74_268.png",
       answers: [
         {
           text: "A no-waiting area",
@@ -2673,7 +2673,7 @@ export const chapter6: Chapter = {
     {
       id: 127,
       question: "What do these traffic signs indicate?",
-      img: "/47-74/47-74_272.png",
+      img: "/question-images/47-74/47-74_272.png",
       answers: [
         {
           text: "No stopping on the roadway and the hard shoulder",
@@ -2693,7 +2693,7 @@ export const chapter6: Chapter = {
       id: 128,
       question:
         "What should you remember when you see a line like this in the centre of the roadway?",
-      img: "/47-74/47-74_273.png",
+      img: "/question-images/47-74/47-74_273.png",
       answers: [
         {
           text: "You may not cross or straddle the line",
@@ -2712,7 +2712,7 @@ export const chapter6: Chapter = {
     {
       id: 129,
       question: "What should you remember here (not a priority road)?",
-      img: "/47-74/47-74_274.png",
+      img: "/question-images/47-74/47-74_274.png",
       answers: [
         {
           text: "Parking is permitted if a gap of at least 3 m is left between a parked vehicle and the centre line",
@@ -2735,7 +2735,7 @@ export const chapter6: Chapter = {
     {
       id: 130,
       question: "Which traffic sign refers to the permissible total mass?",
-      img: "/47-74/47-74_275.png",
+      img: "/question-images/47-74/47-74_275.png",
       answers: [
         {
           text: "(( 1 ))",
@@ -2754,7 +2754,7 @@ export const chapter6: Chapter = {
     {
       id: 131,
       question: "You want to overtake. What do you do?",
-      img: "/47-74/47-74_276.png",
+      img: "/question-images/47-74/47-74_276.png",
       answers: [
         {
           text: "You may cross both lines provided no-one is endangered thereby",
@@ -2773,7 +2773,7 @@ export const chapter6: Chapter = {
     {
       id: 132,
       question: "Which traffic sign refers to the actual mass?",
-      img: "/47-74/47-74_275.png",
+      img: "/question-images/47-74/47-74_275.png",
       answers: [
         {
           text: "(( 1 ))",
@@ -2792,7 +2792,7 @@ export const chapter6: Chapter = {
     {
       id: 133,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_266.png?",
+      img: "/question-images/47-74/47-74_266.png?",
       answers: [
         {
           text: "Minimum speed of 60 km/h",
@@ -2812,7 +2812,7 @@ export const chapter6: Chapter = {
       id: 134,
       question:
         "Which vehicles are prohibited from using a road sign posted like this?",
-      img: "/47-74/47-74_66.png",
+      img: "/question-images/47-74/47-74_66.png",
       answers: [
         {
           text: "Vehicles with an actual axle weight exceeding 2 t",
@@ -2831,7 +2831,7 @@ export const chapter6: Chapter = {
     {
       id: 135,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_278.png",
+      img: "/question-images/47-74/47-74_278.png",
       answers: [
         {
           text: "A prohibition for vehicles more than 2 m wide including load",
@@ -2850,7 +2850,7 @@ export const chapter6: Chapter = {
     {
       id: 136,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_279.png",
+      img: "/question-images/47-74/47-74_279.png",
       answers: [
         {
           text: "Priority only at the next crossroads or junction",
@@ -2870,7 +2870,7 @@ export const chapter6: Chapter = {
       id: 137,
       question:
         "Which vehicles can cause serious accidents when this traffic sign is ignored?",
-      img: "/47-74/47-74_280.png",
+      img: "/question-images/47-74/47-74_280.png",
       answers: [
         {
           text: "Vehicles of the following dimensions: increased load: Length 8 m, width 2.5 m, height 4 m",
@@ -2890,7 +2890,7 @@ export const chapter6: Chapter = {
       id: 138,
       question:
         "What should you remember when you approach these traffic signs?",
-      img: "/47-74/47-74_281.png",
+      img: "/question-images/47-74/47-74_281.png",
       answers: [
         {
           text: "You will remain on the priority road if you turn left",
@@ -2910,7 +2910,7 @@ export const chapter6: Chapter = {
       id: 139,
       question:
         "With which vehicles are you not allowed to drive on a road sign posted like this?",
-      img: "/47-74/47-74_69.png",
+      img: "/question-images/47-74/47-74_69.png",
       answers: [
         {
           text: "Car with caravan trailer, total length of the combination 16 m",
@@ -2933,7 +2933,7 @@ export const chapter6: Chapter = {
     {
       id: 140,
       question: "Which traffic sign gives right of way?",
-      img: "/47-74/47-74_282.png",
+      img: "/question-images/47-74/47-74_282.png",
       answers: [
         {
           text: "Traffic sign 2",
@@ -2952,7 +2952,7 @@ export const chapter6: Chapter = {
     {
       id: 141,
       question: "What applies after this traffic sign?",
-      img: "/47-74/47-74_283.png",
+      img: "/question-images/47-74/47-74_283.png",
       answers: [
         {
           text: "You must not drive faster than walking speed",
@@ -2975,7 +2975,7 @@ export const chapter6: Chapter = {
     {
       id: 142,
       question: "What must you expect when you see this traffic sign?",
-      img: "/47-74/47-74_284.png",
+      img: "/question-images/47-74/47-74_284.png",
       answers: [
         {
           text: "Flowing traffic will be stopped in order to let children cross the road",
@@ -2998,7 +2998,7 @@ export const chapter6: Chapter = {
     {
       id: 143,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_285.png",
+      img: "/question-images/47-74/47-74_285.png",
       answers: [
         {
           text: "The start of a Highway",
@@ -3017,7 +3017,7 @@ export const chapter6: Chapter = {
     {
       id: 144,
       question: "Which traffic sign gives right of way at the next crossroads?",
-      img: "/47-74/47-74_286.png",
+      img: "/question-images/47-74/47-74_286.png",
       answers: [
         {
           text: "Traffic sign 1",
@@ -3036,7 +3036,7 @@ export const chapter6: Chapter = {
     {
       id: 145,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_287.png",
+      img: "/question-images/47-74/47-74_287.png",
       answers: [
         {
           text: "One-way street",
@@ -3055,7 +3055,7 @@ export const chapter6: Chapter = {
     {
       id: 146,
       question: "Which traffic sign gives the right of way?",
-      img: "/47-74/47-74_288.png",
+      img: "/question-images/47-74/47-74_288.png",
       answers: [
         {
           text: "Traffic sign 2",
@@ -3074,7 +3074,7 @@ export const chapter6: Chapter = {
     {
       id: 147,
       question: "What does this sign tell you?",
-      img: "/47-74/47-74_290.png",
+      img: "/question-images/47-74/47-74_290.png",
       answers: [
         {
           text: "Priority road",
@@ -3093,7 +3093,7 @@ export const chapter6: Chapter = {
     {
       id: 148,
       question: "What ends here?",
-      img: "/47-74/47-74_289.png",
+      img: "/question-images/47-74/47-74_289.png",
       answers: [
         {
           text: "A priority road",
@@ -3112,7 +3112,7 @@ export const chapter6: Chapter = {
     {
       id: 149,
       question: "What is allowed on priority roads outside built-up areas?",
-      img: "/47-74/47-74_290.png",
+      img: "/question-images/47-74/47-74_290.png",
       answers: [
         {
           text: "Stopping on the left edge of the roadway",
@@ -3135,7 +3135,7 @@ export const chapter6: Chapter = {
     {
       id: 150,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_291.png",
+      img: "/question-images/47-74/47-74_291.png",
       answers: [
         {
           text: "You may only take precedence when the narrowing is clear",
@@ -3158,7 +3158,7 @@ export const chapter6: Chapter = {
     {
       id: 151,
       question: "What must you remember when you see this traffic sign?",
-      img: "/47-74/47-74_292.png",
+      img: "/question-images/47-74/47-74_292.png",
       answers: [
         {
           text: "If you follow the priority road, you must indicate left",
@@ -3181,7 +3181,7 @@ export const chapter6: Chapter = {
     {
       id: 152,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_293.png",
+      img: "/question-images/47-74/47-74_293.png",
       answers: [
         {
           text: "If you follow the priority road, you must indicate right",
@@ -3200,7 +3200,7 @@ export const chapter6: Chapter = {
     {
       id: 153,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_23.png",
+      img: "/question-images/47-74/47-74_23.png",
       answers: [
         {
           text: "You must Indicate left",
@@ -3223,7 +3223,7 @@ export const chapter6: Chapter = {
     {
       id: 154,
       question: "In which directions are you allowed to continue?",
-      img: "/47-74/47-74_294.png",
+      img: "/question-images/47-74/47-74_294.png",
       answers: [
         {
           text: "To the left",
@@ -3246,7 +3246,7 @@ export const chapter6: Chapter = {
     {
       id: 155,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_21.png",
+      img: "/question-images/47-74/47-74_21.png",
       answers: [
         {
           text: "You must Indicate right",
@@ -3269,7 +3269,7 @@ export const chapter6: Chapter = {
     {
       id: 156,
       question: "What must you do when you see this traffic sign?",
-      img: "/47-74/47-74_18.png",
+      img: "/question-images/47-74/47-74_18.png",
       answers: [
         {
           text: "You must pass obstacles on the left",
@@ -3288,7 +3288,7 @@ export const chapter6: Chapter = {
     {
       id: 157,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_22.png",
+      img: "/question-images/47-74/47-74_22.png",
       answers: [
         {
           text: "You may only proceed straight ahead",
@@ -3307,7 +3307,7 @@ export const chapter6: Chapter = {
     {
       id: 158,
       question: "What do you do when you see this traffic sign?",
-      img: "/47-74/47-74_295.png",
+      img: "/question-images/47-74/47-74_295.png",
       answers: [
         {
           text: "You may stop",
@@ -3331,7 +3331,7 @@ export const chapter6: Chapter = {
       id: 159,
       question:
         "A school bus is stopping on the roadway approximately 80 m in front of you. Can this be dangerous?",
-      img: "/47-74/47-74_220.png",
+      img: "/question-images/47-74/47-74_220.png",
       answers: [
         {
           text: "Yes, because children frequently run across the road to catch the bus",
@@ -3354,7 +3354,7 @@ export const chapter6: Chapter = {
     {
       id: 160,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_296.png",
+      img: "/question-images/47-74/47-74_296.png",
       answers: [
         {
           text: "A track prohibited for road users other than horse riders",
@@ -3377,7 +3377,7 @@ export const chapter6: Chapter = {
     {
       id: 161,
       question: "What should you remember where you see this traffic sign?",
-      img: "/47-74/47-74_297.png",
+      img: "/question-images/47-74/47-74_297.png",
       answers: [
         {
           text: "You must reckon with taxis pulling in and setting off",
@@ -3396,7 +3396,7 @@ export const chapter6: Chapter = {
     {
       id: 162,
       question: "What must a motorist do on this road?",
-      img: "/47-74/47-74_298.png",
+      img: "/question-images/47-74/47-74_298.png",
       answers: [
         {
           text: "Drive at walking speed only",
@@ -3419,7 +3419,7 @@ export const chapter6: Chapter = {
     {
       id: 163,
       question: "What does this traffic sign indicate?",
-      img: "/47-74/47-74_26.png",
+      img: "/question-images/47-74/47-74_26.png",
       answers: [
         {
           text: "A cycle track",
@@ -3438,7 +3438,7 @@ export const chapter6: Chapter = {
     {
       id: 164,
       question: "Who is allowed to drive a motor vehicle on this road?",
-      img: "/47-74/47-74_298.png",
+      img: "/question-images/47-74/47-74_298.png",
       answers: [
         {
           text: "Persons delivering goods",
@@ -3458,7 +3458,7 @@ export const chapter6: Chapter = {
       id: 165,
       question:
         "Which vehicles are allowed to use the special lane marked like this?",
-      img: "/47-74/47-74_35.png",
+      img: "/question-images/47-74/47-74_35.png",
       answers: [
         {
           text: "Regular buses",
@@ -3478,7 +3478,7 @@ export const chapter6: Chapter = {
       id: 166,
       question:
         "Which vehicles are not allowed to use a road sign posted like this?",
-      img: "/47-74/47-74_299.png",
+      img: "/question-images/47-74/47-74_299.png",
       answers: [
         {
           text: "Cars",
@@ -3497,7 +3497,7 @@ export const chapter6: Chapter = {
     {
       id: 167,
       question: "Who is allowed to enter a street sign posted like this?",
-      img: "/47-74/47-74_300.png",
+      img: "/question-images/47-74/47-74_300.png",
       answers: [
         {
           text: "Residents",
@@ -3521,7 +3521,7 @@ export const chapter6: Chapter = {
       id: 168,
       question:
         "Which vehicles are not allowed to use a road sign posted like this?",
-      img: "/47-74/47-74_301.png",
+      img: "/question-images/47-74/47-74_301.png",
       answers: [
         {
           text: "Bicycles",
@@ -3540,7 +3540,7 @@ export const chapter6: Chapter = {
     {
       id: 169,
       question: "What do you do when you enter a road sign posted like this?",
-      img: "/47-74/47-74_300.png",
+      img: "/question-images/47-74/47-74_300.png",
       answers: [
         {
           text: "If necessary, drive at walking speed",
@@ -3564,7 +3564,7 @@ export const chapter6: Chapter = {
       id: 170,
       question:
         "Which vehicles are not allowed to use a road sign posted like this?",
-      img: "/47-74/47-74_302.png",
+      img: "/question-images/47-74/47-74_302.png",
       answers: [
         {
           text: "Motorcycles",
