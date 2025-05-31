@@ -2447,7 +2447,7 @@ export const chapter6: Chapter = {
       id: 116,
       question:
         "A traffic calmed commercial zone starts here. What must you do?",
-      img: "/47-74/47-74_261.png?updatedAt=1748592170005",
+      img: "/47-74/47-74_261.png",
       answers: [
         {
           text: "You must specifically watch out for busy pedestrian traffic",
@@ -2673,7 +2673,7 @@ export const chapter6: Chapter = {
     {
       id: 127,
       question: "What do these traffic signs indicate?",
-      img: "/47-74/47-74_272.png?updatedAt=1748593680727",
+      img: "/47-74/47-74_272.png",
       answers: [
         {
           text: "No stopping on the roadway and the hard shoulder",
@@ -2933,7 +2933,7 @@ export const chapter6: Chapter = {
     {
       id: 140,
       question: "Which traffic sign gives right of way?",
-      img: "/47-74/47-74_282.png?updatedAt=1748594855372",
+      img: "/47-74/47-74_282.png",
       answers: [
         {
           text: "Traffic sign 2",
@@ -3438,7 +3438,7 @@ export const chapter6: Chapter = {
     {
       id: 164,
       question: "Who is allowed to drive a motor vehicle on this road?",
-      img: "/47-74/47-74_298.png?updatedAt=1748597237166",
+      img: "/47-74/47-74_298.png",
       answers: [
         {
           text: "Persons delivering goods",
